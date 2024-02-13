@@ -1,0 +1,11 @@
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\bin\Debug\PR1_git.exe.config
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\bin\Debug\PR1_git.exe
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\bin\Debug\PR1_git.pdb
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\obj\Debug\PR1_git.csproj.AssemblyReference.cache
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\obj\Debug\PR1_git.csproj.SuggestedBindingRedirects.cache
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\obj\Debug\PR1_git.Form1.resources
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\obj\Debug\PR1_git.Properties.Resources.resources
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\obj\Debug\PR1_git.csproj.GenerateResource.cache
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\obj\Debug\PR1_git.csproj.CoreCompileInputs.cache
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\obj\Debug\PR1_git.exe
+E:\ВУЗ\4 семестр\РиСПСиИТ\ЛР_Разраб_и_СтандартПО\PR1_git\obj\Debug\PR1_git.pdb
